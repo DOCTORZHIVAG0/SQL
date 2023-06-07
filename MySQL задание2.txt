@@ -1,0 +1,27 @@
+1.	Выведите имя, фамилию персонажей и название книги, которая на них числится
+https://drive.google.com/file/d/1q7CScDSgAzbeELkCXcUBx_yPEokatDzG/view?usp=share_link
+
+
+2.	Выведите имя, фамилию персонажей и название книги, вне зависимости от того, есть ли у них книги или нет
+https://drive.google.com/file/d/1gdvTiPpVilg6ZxHtNVkpwmheiKUOu4dc/view?usp=share_link
+
+
+3.	Выведите название книги и имя патронуса, вне зависимости от того, есть ли информация о держателе книги в таблице или нет
+https://drive.google.com/file/d/1uctoyivvyXObiN9lPu0rwGpcGYoxNO51/view?usp=share_link
+
+
+4.	Выведите имя, фамилию, возраст персонажей и название книги, которая на них числится, при условии, что все владельцы книг должны быть старше 15 лет
+https://drive.google.com/file/d/1L9KvSgdCfau2go37r6GAJ3LuYyJgOs_p/view?usp=share_link
+
+
+5.	Выведите имя персонажа, название книги, дату выдачи и дату завершения, при условии, что он младше 15 лет и его патронус неизвестен
+https://drive.google.com/file/d/1JaMh0qleElj7eXQ6G9UDSKAEPbH_oM45/view?usp=share_link
+
+
+6.	Используя вложенный запрос количество книг, у которых end_date больше, чем end_date у Hermione
+https://drive.google.com/file/d/1XMt8lWKGpKNFLCZi8adw-rNI008egyEE/view?usp=share_link
+
+
+7.	С помощью вложенного запроса выведите имена всех патронусов, у которых владельцы старше возраста персонажа, у которого патронус Unknown
+https://drive.google.com/file/d/1m2ZMu9rOLP1AM4T3VmcMD-mcL3ibNNjj/view?usp=share_link
+
