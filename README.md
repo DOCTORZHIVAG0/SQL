@@ -1,7 +1,7 @@
-#SQL
+# SQL
 В рамках домашнего задания мною были созданы запросы к MySQL.
 
-Исходные данные:
+# Исходные данные
 
 Базы данных для домашнего задания находятся здесь: 
 https://drive.google.com/drive/u/3/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB
